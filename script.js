@@ -1,8 +1,6 @@
 
-const key = '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';
-
 const getChatResponse = async () =>{
-    const key = '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';
+    const key = '//paste you open ai api key here//';
     var topic = document.querySelector('.input');
     var number = document.querySelector('.number');
     var type = document.querySelector('.type');
